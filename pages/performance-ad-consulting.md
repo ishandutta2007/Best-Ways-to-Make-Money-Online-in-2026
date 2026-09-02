@@ -74,7 +74,8 @@ Below is the verified software ecosystem for executing this business model in 20
 
 ## 💰 Monetization & Earnings Potential
 
-- **Estimated Earning Potential:** `$2,000 - $6,000/mo base + % of ad spend`
+- **Total Industry Market Size (2026):** `~$135 Billion in digital ad management and performance agency spend`
+- **Estimated Individual Earning Potential:** `$2,000 - $6,000/mo base + % of ad spend`
 - **Profit Margins:** Typically **70%–95%** for digital services and information assets.
 - **Time to First Revenue:** Typically 1 to 4 weeks with dedicated execution.
 

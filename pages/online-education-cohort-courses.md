@@ -74,7 +74,8 @@ Below is the verified software ecosystem for executing this business model in 20
 
 ## 💰 Monetization & Earnings Potential
 
-- **Estimated Earning Potential:** `$15,000 - $50,000/cohort`
+- **Total Industry Market Size (2026):** `~$95 Billion in interactive online cohorts, micro-courses & masterclasses`
+- **Estimated Individual Earning Potential:** `$15,000 - $50,000/cohort`
 - **Profit Margins:** Typically **70%–95%** for digital services and information assets.
 - **Time to First Revenue:** Typically 1 to 4 weeks with dedicated execution.
 

@@ -74,7 +74,8 @@ Below is the verified software ecosystem for executing this business model in 20
 
 ## 💰 Monetization & Earnings Potential
 
-- **Estimated Earning Potential:** `$2,000 - $10,000/mo profit`
+- **Total Industry Market Size (2026):** `~$15 Billion in custom on-demand apparel and merchandise commerce`
+- **Estimated Individual Earning Potential:** `$2,000 - $10,000/mo profit`
 - **Profit Margins:** Typically **70%–95%** for digital services and information assets.
 - **Time to First Revenue:** Typically 1 to 4 weeks with dedicated execution.
 

@@ -74,7 +74,8 @@ Below is the verified software ecosystem for executing this business model in 20
 
 ## 💰 Monetization & Earnings Potential
 
-- **Estimated Earning Potential:** `$150 - $500/video ($3,000 - $8,000/mo)`
+- **Total Industry Market Size (2026):** `~$14 Billion in direct-to-consumer UGC ad production & creator licensing`
+- **Estimated Individual Earning Potential:** `$150 - $500/video ($3,000 - $8,000/mo)`
 - **Profit Margins:** Typically **70%–95%** for digital services and information assets.
 - **Time to First Revenue:** Typically 1 to 4 weeks with dedicated execution.
 

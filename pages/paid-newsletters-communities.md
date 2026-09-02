@@ -74,7 +74,8 @@ Below is the verified software ecosystem for executing this business model in 20
 
 ## 💰 Monetization & Earnings Potential
 
-- **Estimated Earning Potential:** `$5,000 - $25,000/mo MRR`
+- **Total Industry Market Size (2026):** `~$22 Billion across premium subscription newsletters & gated communities`
+- **Estimated Individual Earning Potential:** `$5,000 - $25,000/mo MRR`
 - **Profit Margins:** Typically **70%–95%** for digital services and information assets.
 - **Time to First Revenue:** Typically 1 to 4 weeks with dedicated execution.
 
