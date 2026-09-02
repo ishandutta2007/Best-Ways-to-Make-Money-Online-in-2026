@@ -1,3 +1,5 @@
+![Best Ways to Make Money Online in 2026 Banner](assets/banner.svg)
+
 # Comprehensive Guide: Best Ways to Make Money Online in 2026
 
 This expanded list categorises the most viable online revenue streams for 2026 based on business models, skill requirements, and leverage.
