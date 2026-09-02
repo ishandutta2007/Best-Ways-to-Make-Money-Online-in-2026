@@ -110,4 +110,18 @@ flowchart TB
 | **👨‍🏫 Remote Online Tutoring** | Provide personalized online 1-on-1 instruction in academic topics, coding, or languages via global platforms. | 2011 | [VanLehn (2011) / Tutoring Effectiveness](https://doi.org/10.1080/00461520.2011.611777) | [🔍 Details](pages/remote-online-tutoring.md) |
 | **📋 Virtual Assistant (VA) Services** | Offer specialized executive administrative support, inbox/calendar management, and customer workflow operations. | 2004 | [Malone (2004) / Future of Work](https://mitpress.mit.edu/9780262633215/the-future-of-work/) | [🔍 Details](pages/virtual-assistant-services.md) |
 
+---
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FBest-Ways-to-Make-Money-Online-in-2026&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Best-Ways-to-Make-Money-Online-in-2026&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Best-Ways-to-Make-Money-Online-in-2026&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Best-Ways-to-Make-Money-Online-in-2026&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
+
 
